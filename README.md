@@ -41,7 +41,7 @@ Seguir creciendo como desarrollador, consolidar mis bases técnicas y participar
 
 Si quieres colaborar, aprender juntos o simplemente hablar de tech 😁🫱🏾‍🫲🏽:
 
-- 🌐 (<a target="_blank" href="https://cesarvelazquezo.netlify.app/">Portafolio.<a/>)
+- 🌐 <a target="_blank" href="https://cesarvelazquezo.netlify.app/">Portafolio.<a/>
 - 📧 Email: velazquezortizcesar@gmail.com
 
 ---
