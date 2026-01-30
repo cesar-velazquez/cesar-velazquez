@@ -9,9 +9,9 @@
 ---
 
 ## 🧠 Sobre mí
-- 💻 Desarrollador web enfocado en **HTML, CSS, JavaScript, React y Tailwind**
-- 🌐 Estudiante de **redes**, con interés fuerte en cómo viajan los datos
-- ♿ Interesado en **accesibilidad web** y buenas prácticas
+- 💻 Desarrollador web enfocado en **HTML, CSS, JavaScript, React y Tailwind**.
+- 🌐 Estudiante de **redes**, con interés fuerte en cómo viajan los datos.
+- ♿ Interesado en **accesibilidad web** y buenas prácticas.
 
 ---
 
@@ -41,7 +41,7 @@ Seguir creciendo como desarrollador, consolidar mis bases técnicas y participar
 
 Si quieres colaborar, aprender juntos o simplemente hablar de tech 😁🫱🏾‍🫲🏽:
 
-- 🌐 ((<a target="_blank" href="https://cesarvelazquezo.netlify.app/">Portafolio<a/>))
+- 🌐 ((<a target="_blank" href="https://cesarvelazquezo.netlify.app/">Portafolio.<a/>))
 - 📧 Email: velazquezortizcesar@gmail.com
 
 ---
